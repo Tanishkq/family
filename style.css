@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    font-style: italic;
+}
+.img{
+    size: 200px;
+}
